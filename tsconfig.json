@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs"
+  },
+  "files": [
+    "orchestrator.d.ts",
+    "typings/main.d.ts"
+  ]
+}
